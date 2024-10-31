@@ -4,3 +4,5 @@ joao
 ester
 alini
 edemar
+pedro
+tiago de novo
